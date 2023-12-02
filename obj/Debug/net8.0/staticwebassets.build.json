@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uX+F4gNDSsIXIIIBGsDpZa9JOcdN/MGKzLB1JdWWW00=",
+  "Source": "crawler",
+  "BasePath": "_content/crawler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
