@@ -1,7 +1,7 @@
 using System;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-    
+
 namespace CrawlerController
 {
     [ApiController]
@@ -12,7 +12,8 @@ namespace CrawlerController
         [HttpGet("/crawlwithAuth")]
         public IActionResult Crawl()
         {
-            return Ok("Crawling...");
+            Array otels = new string[] { "Hilton", "Marriot", "Ritz" };
+            return Ok(otels);
         }
 
         [HttpGet("/crawlwithoutAuth")]

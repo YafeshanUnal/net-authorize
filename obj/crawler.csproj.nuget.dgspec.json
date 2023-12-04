@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\crawler\\crawler.csproj": {}
+    "d:\\crawler\\crawler.csproj": {}
   },
   "projects": {
-    "D:\\crawler\\crawler.csproj": {
+    "d:\\crawler\\crawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\crawler\\crawler.csproj",
+        "projectUniqueName": "d:\\crawler\\crawler.csproj",
         "projectName": "crawler",
-        "projectPath": "D:\\crawler\\crawler.csproj",
+        "projectPath": "d:\\crawler\\crawler.csproj",
         "packagesPath": "C:\\Users\\legıon\\.nuget\\packages\\",
-        "outputPath": "D:\\crawler\\obj\\",
+        "outputPath": "d:\\crawler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\legıon\\AppData\\Roaming\\NuGet\\NuGet.Config",

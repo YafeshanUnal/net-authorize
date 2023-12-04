@@ -31,8 +31,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-
+app.UseCors(builder => builder
+    .AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader());
 app.UseRouting();
 app.Use(async (context, next) =>
 {
@@ -48,7 +50,7 @@ app.Use(async (context, next) =>
 
     await next();
 });
-app.MapControllers(); 
+app.MapControllers();
 
 
 app.Run();

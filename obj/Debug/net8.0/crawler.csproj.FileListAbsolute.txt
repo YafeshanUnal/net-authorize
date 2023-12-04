@@ -31,3 +31,8 @@ D:\crawler\obj\Debug\net8.0\refint\crawler.dll
 D:\crawler\obj\Debug\net8.0\crawler.pdb
 D:\crawler\obj\Debug\net8.0\crawler.genruntimeconfig.cache
 D:\crawler\obj\Debug\net8.0\ref\crawler.dll
+D:\crawler\bin\Debug\net8.0\client\.eslintrc.json
+D:\crawler\bin\Debug\net8.0\client\jsconfig.json
+D:\crawler\bin\Debug\net8.0\client\package.json
+D:\crawler\obj\Debug\net8.0\crawler.sourcelink.json
+D:\crawler\bin\Debug\net8.0\client\package-lock.json
